@@ -1,0 +1,28 @@
+.navbar{
+    font-size: 20px;
+    background-color: black; 
+}
+.navbar2 {
+background-color: rgba(0, 0, 0, 0.971);
+
+}
+.navbar-brand{
+    margin-left: 10px;
+   
+}
+.navbar button{
+    background-color: rgb(126, 130, 130);
+}
+.navbar li{
+    padding-left: 6px;
+}
+.navbar a{
+    color: white;
+}
+.navbar a:hover{
+    color: white;
+
+}
+.navbar-brand{
+    padding-left: 10px;
+}

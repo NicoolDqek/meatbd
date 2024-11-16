@@ -1,0 +1,12 @@
+.carousel {
+height: 70vh;
+background-color: rgba(0, 0, 0, 0.255);
+overflow: hidden;
+ 
+}
+.carousel img{
+    width: 100%;    
+   
+   
+
+}
